@@ -9,7 +9,7 @@ Resolución de ejercicios Capítulo 13 y 14 del Libro de Floyd (Octava edición)
 
 #### Objetivos Generales
 
-Estudiar y comprender la teoria relacionada con los inductores y transformadores en circuitos electricos elementales, por medio de la implementacion de mapas conceptuales, esquemas, para asi lograr intruducir informacion para los estudiantes, y finalmente adquirir destresas para la resolucion de ejercicios mediante la informacion analizada.
+Conocer y estudiar los conceptos de inductores y transformadores en circuitos eléctricos elementales por medio de la implementación de mapas conceptuales para mejorar el entendimiento, para luego desarrollar correctamente los ejercicios respectivos a cada tema.
 
 #### Objetivos Específicos
 
@@ -38,6 +38,9 @@ Estudiar y comprender la teoria relacionada con los inductores y transformadores
 
 
 ## Transformadores (Capitulo 14)
+
+
+
 
 
 
@@ -171,3 +174,202 @@ Para el circuito del literal c
 ![image](https://user-images.githubusercontent.com/105259381/185306009-dfd13eb9-9146-4b1f-a878-1e284cf040a8.png)
 
 ![image](https://user-images.githubusercontent.com/105259381/185306131-b318a849-1ba9-45dc-a294-6ef4d4d7e27c.png)
+
+## Resolución de los ejercicios Capítulo 14
+
+#### SECCIÓN 14–1 Inductancia mutua
+
+2. Determine el coeficiente de acoplamiento cuando LM= 1 mH, L1= 8 mH, y L2= 2 mH.
+
+![image](https://user-images.githubusercontent.com/105259381/185416839-4fbd63d0-453c-4276-90fe-82a2d18c6e82.png)
+
+#### SECCIÓN 14–2 El transformador básico
+
+4. Cierto transformador tiene 250 vueltas en su devanado primario. Para duplicar el voltaje, ¿cuántas vueltas debe haber en el devanado secundario?
+
+![image](https://user-images.githubusercontent.com/105259381/185423785-79606d75-4f56-4e33-9924-ff3be38e3d54.png)
+
+#### SECCIÓN 14–3 Transformadores elevadores y reductores
+
+6. Para elevar 240 V de ca a 720 V, ¿cuál debe ser la relación de vueltas?
+
+![image](https://user-images.githubusercontent.com/105259381/185424245-22080167-6105-4e99-9b11-ed2b2be20e02.png)
+
+8. ¿Cuántos volts primarios se deben aplicar a un transformador que tiene relación de vueltas de 10 para obtener un voltaje secundario de 60 V de ca?
+
+![image](https://user-images.githubusercontent.com/105259381/185424449-b2273f59-a86b-4dc1-9282-e8f692d27d34.png)
+
+10. El devanado primario de un transformador tiene 1200 V a través de él. ¿Cuál es el voltaje secundario si la relación de vueltas es de 0.2?
+
+![image](https://user-images.githubusercontent.com/105259381/185424649-7cefe839-9d10-44e0-b2ba-1a152bc22327.png)
+
+12. ¿Cuál es el voltaje a través de la carga en cada uno de los circuitos de la figura 14-43?
+
+![image](https://user-images.githubusercontent.com/105259381/185424807-23b09ec2-5012-4635-83a5-395b4242e091.png)
+
+Para el circuito del literal a
+
+![image](https://user-images.githubusercontent.com/105259381/185425186-42f665a6-1eef-4a95-833b-5fead891a039.png)
+
+Para el circuito del literal b
+
+![image](https://user-images.githubusercontent.com/105259381/185425534-6bfa3204-dce6-49a0-856d-793530006e84.png)
+
+Para el circuito del literal c
+
+![image](https://user-images.githubusercontent.com/105259381/185425867-8e261f3a-b93c-4723-86b5-71ca2fb54e60.png)
+
+#### SECCIÓN 14–4 Carga del devanado secundario
+
+14. Determine Is en la figura 14-45. ¿Cuál es el valor de RL?
+
+![image](https://user-images.githubusercontent.com/105259381/185426089-703cea6a-e39a-4ea1-bd93-2d82f56f5725.png)
+
+![image](https://user-images.githubusercontent.com/105259381/185426299-9385900c-df5c-4258-925f-c5422f89bc79.png)
+
+#### SECCIÓN 14–5 Carga reflejada
+
+16. ¿Cuál es la resistencia en la carga vista por la fuente en la figura 14-47?
+
+![image](https://user-images.githubusercontent.com/105259381/185426505-d4b0f326-a522-4ce6-90df-2954a8f42dd7.png)
+
+![image](https://user-images.githubusercontent.com/105259381/185426604-2a93e87a-9790-4a9a-b785-e7bac975ab19.png)
+
+#### SECCIÓN 14–6 Igualación de impedancia
+
+18. En el circuito de la figura 14-49, encuentre la relación de vueltas requerida para suministrar potencia máxima al altavoz de 4Ω. 
+
+![image](https://user-images.githubusercontent.com/105259381/185427160-a9930fb2-f19c-4492-9e87-64114dc45a9b.png)
+
+![image](https://user-images.githubusercontent.com/105259381/185427470-ce7d4472-1033-41f5-856d-bf51507c1bdd.png)
+
+20. Encuentre la relación de vueltas apropiada en cada una de las posiciones mostradas en la figura 14-50 para transferir potencia máxima a cada carga cuando la resistencia de fuente es de 10Ω. Especifique el número de vueltas requerido para el devanado secundario si el devanado primario tiene 1000 vueltas.
+
+![image](https://user-images.githubusercontent.com/105259381/185427708-e0934b84-1c6c-47fd-9e8d-8a11c65fa5be.png)
+
+Posición 1 
+
+![image](https://user-images.githubusercontent.com/105259381/185427920-01ccae08-9859-488a-9aaa-410bd26567fb.png)
+
+Posición 2 
+
+![image](https://user-images.githubusercontent.com/105259381/185428060-b6822e2f-d217-42b0-9503-b89f8160d550.png)
+
+Posición 3
+
+![image](https://user-images.githubusercontent.com/105259381/185428209-bf6b25b2-06e4-4e61-939e-34b8651a092e.png)
+
+#### SECCIÓN 14–7 Características de un transformador no ideal
+
+22. ¿Cuál es la eficiencia del transformador en el problema 21?
+
+![image](https://user-images.githubusercontent.com/105259381/185428527-34cb2c5a-4767-48cb-8df7-db766b8755cb.png)
+
+24. La potencia nominal de cierto transformador es de 1 kVA. El transformador opera a 60 Hz y 120 V de ca. El voltaje secundario es de 600 V
+
+(a) ¿Cuál es la corriente máxima en la carga?
+
+![image](https://user-images.githubusercontent.com/105259381/185428789-a41690c2-5305-44d1-b6ed-ab2a3891c798.png)
+
+(b) ¿Cuál es el valor RL más pequeño que puede ser excitado?
+
+![image](https://user-images.githubusercontent.com/105259381/185429024-f1ae7588-c68f-405b-8f94-72e0b069bd3f.png)
+
+(c) ¿Cuál es el capacitor más grande que se puede conectar como carga?
+
+![image](https://user-images.githubusercontent.com/105259381/185429145-97f3e018-a59f-453f-8776-6bf8ed96ec3b.png)
+
+26. La potencia nominal de cierto transformador es de 5 kVA, 2400/120 V, a 60 Hz.
+
+(a) ¿Cuál es la relación de vueltas si los 120 V son el voltaje secundario?
+
+![image](https://user-images.githubusercontent.com/105259381/185429454-7aaacc2c-8b79-44a7-88a5-b85f392c6ee0.png)
+
+(b) ¿Cuál es la corriente nominal del secundario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/105259381/185429584-7ccd1e9e-df31-46bb-90a8-f2c310427b21.png)
+
+(c) ¿Cuál es la corriente nominal del devanado primario si los 2400 V son el voltaje primario?
+
+![image](https://user-images.githubusercontent.com/105259381/185429615-22957140-e06d-4564-a70d-c58c8730b565.png)
+
+#### SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
+
+28. Con los voltajes indicados en la figura 14-52, determine la relación de vueltas de cada sección de toma del devanado secundario al devanado primario.
+
+![image](https://user-images.githubusercontent.com/105259381/185430034-1c040e9b-0f49-4e9f-b992-8d959cd9ef25.png)
+
+Secundario 1
+
+![image](https://user-images.githubusercontent.com/105259381/185429943-f048ed5f-12e8-4db8-b1ea-ed6da23ebedb.png)
+
+Secundario 2
+
+![image](https://user-images.githubusercontent.com/105259381/185430161-b2d14610-d594-4de2-9b93-8dc8f10c4c91.png)
+
+Secundario 3
+
+![image](https://user-images.githubusercontent.com/105259381/185430185-b805a5e9-cc02-4fd4-a8d7-49895228978c.png)
+
+30. En la figura 14-54, cada primario puede acomodar 120 V de ca. ¿Cómo se deberán conectar los primarios para que operen con 240 V de ca? Determine cada voltaje secundario para operación con 240 V
+
+![image](https://user-images.githubusercontent.com/105259381/185430885-5f235284-1f52-4c67-9699-f10de5acad6d.png)
+
+Se conecta de la siguiente manera:
+
+![image](https://user-images.githubusercontent.com/105259381/185431281-3ea26822-2cc3-4e0a-a77c-e5906f4d0ae2.png)
+
+100 vueltas
+
+![image](https://user-images.githubusercontent.com/105259381/185431562-9f93b126-412f-4480-99e2-fcee2a2a0f54.png)
+
+200 vueltas
+
+![image](https://user-images.githubusercontent.com/105259381/185431660-66deb1e5-0c91-4188-a7d1-44fe3157538f.png)
+
+500 vueltas
+
+![image](https://user-images.githubusercontent.com/105259381/185431718-43e863fc-337e-4e5c-9ae9-b5d3d1d2ce27.png)
+
+1000 vueltas
+
+![image](https://user-images.githubusercontent.com/105259381/185431769-0f1efd91-512f-4255-85a2-fedb52d218d1.png)
+
+#### SECCIÓN 14–9 Localización de fallas
+
+32. Cuando se aplican 120 V de ca a través del devanado primario de un transformador y se verifica el voltaje en el devanado secundario, se leen 0 V. Una investigación más a fondo muestra que no hay corriente en el primario ni en el secundario. Enumere las posibles fallas. ¿Cuál es el siguiente paso en la investigación del problema?
+
+![image](https://user-images.githubusercontent.com/105259381/185432553-59a76246-01ef-442c-a305-eebf1ede8640.png)
+
+Respuesta:
+
+- El devanado secundario se encuentra en cortocircuito
+
+- Se debe realizar una verificación del devanado secundario con el ohmetro
+
+- El siguiente paso sería reemplazar el transformador
+
+34. Mientras usted revisa un transformador, se da cuenta que el voltaje secundario es menor de lo que debería ser aunque no es de cero. ¿Cuál es la falla más probable?
+
+Respuesta:
+
+El devanado secundario puede que esté en cortocircuito. Es probable que exista una corriente excesiva debido a la baja resistencia reflejada provocada por el corto.
+
+### 4. CONCLUSIONES
+
+Mediante el estudio del inductor se conoce que básicamente una bobina de alambre se basa en el principio de inducción electromagnética, lo cual ya se había estudiado una parte de este tema. Se denota que la inductancia es la propiedad de una bobina de alambre que se opone a un cambio de corriente. La base de la inductancia es el campo electromagnético que rodea cualquier conductor cuando fluye corriente a través de él.
+
+Para la aplicación de inductores en un circuito se determina la inductancia de bobinas midiendo la constante de tiempo de un circuito de prueba por medio de formas de onda de un osciloscopio. 
+
+Al momento de aplicar transformadores en un circuito se aprendió a localizar fallas en un tipo de fuente de potencia de cdque utiliza un transformador para acoplar el voltaje de ca tomado de una toma de corriente eléctrica estándar. Al medir el voltaje en varios puntos, es posible determinar si existe una falla y especificar la parte defectuosa de la fuente de potencia.
+
+Mediante el estudio de transformadores se analizó que la operación del transformador se basa en el principio de inductancia mutua, la cual ocurre si dos o más bobinas están muy cercanas una de otra. En realidad, un transformador simple se compone de dos bobinas que están acopladas de manera electromagnética por su inductancia mutua. Como no existe contacto eléctrico entre dos bobinas magnéticamente acopladas, la transferencia de energía de una bobina a la otra se logra en una situación de completo aislamiento eléctrico.
+
+### 5. VIDEO
+
+
+
+### 6. BIBLIOGRAFÍA
+
+Floyd, TL (2007). Principios de circuitos electricos. Monterrey: Pearson Educación.
+
