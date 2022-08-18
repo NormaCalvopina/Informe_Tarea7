@@ -31,13 +31,48 @@ Conocer y estudiar los conceptos de inductores y transformadores en circuitos el
 
 ## Inductores (Capitulo 13)
 
+![image](https://user-images.githubusercontent.com/105259381/185485768-c864dc74-b935-4e3d-9e02-e6f4ad96bc27.png)
 
+![image](https://user-images.githubusercontent.com/105259381/185489799-0cf0e56b-c101-4044-8c79-91a4d054c785.png)
+----
 
+![image](https://user-images.githubusercontent.com/105259381/185489517-3c3a1eab-0151-40cb-980e-6d61579e1f54.png)
+----
 
+![image](https://user-images.githubusercontent.com/105259381/185492978-9e8f58c8-2c82-45e3-8829-9748e803abe7.png)
 
+#### Potencia en un inductor
 
+Un inductor ideal (suponiendo que no hay resistencia de devanado) no disipa energía, sólo la guarda. Cuando se aplica un voltaje de ca a un inductor ideal, el inductor almacena energía durante una parte del ciclo; en seguida la energía guardada regresa a la fuente durante otra parte del ciclo. En un inductor ideal no se pierde energía neta a causa de la conversión en calor.
+
+Potencia instantánea (p) El producto de v por i proporciona potencia instantánea. En puntos donde v o i son cero, p también es cero. Cuando tanto v como i son positivos, p es igualmente positiva. Si v o i son positivos y la otra variable (v o i) es negativa, p es negativa. Cuando v e i son negativos, p es positiva
+
+Potencia real (Preal) De modo ideal, toda la energía guardada por un inductor durante la parte positiva del ciclo de potencia es regresada a la fuente durante la parte negativa. No se pierde energía neta por la conversión en calor en el inductor, por lo que la potencia real es de cero.
+
+![image](https://user-images.githubusercontent.com/105259381/185496273-e0b8aa47-7227-4d38-a5b3-0607db8facdf.png)
+
+Potencia reactiva (Pr) La rapidez a la cual un inductor guarda o regresa energía se conoce como su potencia reactiva, con la unidad de VAR (volt-ampere reactivo). La potencia reactiva es una cantidad distinta de cero porque en cualquier instante el inductor está tomando energía de la fuente o regresando energía a ella.
+
+![image](https://user-images.githubusercontent.com/105259381/185496416-19bc913c-84ea-4134-9297-efe9d0e4772c.png)
+
+#### Aplicaciones de los inductores
+
+Los inductores no son tan versátiles como los capacitores y tienden a estar más limitados en sus aplicaciones debido en parte a su tamaño, a factores de costos y a su comportamiento no ideal (resistencia interna, etc.)
+
+Supresión de ruido
+
+Una de las aplicaciones más importantes de los inductores tiene que ver con la supresión de ruido eléctrico indeseable. Los inductores utilizados en estas aplicaciones, en general, se enrollan sobre un núcleo cerrado para evitar que el propio inductor se transforme en una fuente de ruido radiado. Dos tipos de ruido son el ruido conductivo y el ruido radiado.
+
+Bobinas de RF (radiofrecuencia)
+
+Los inductores utilizados para bloquear frecuencias muy altas se llaman bobinas de radiofrecuencia (RF). Las bobinas de RF se utilizan para ruido conductivo o radiado. Son inductores especiales diseñados para impedir que las altas frecuencias entren a, o salgan de algunas partes de un sistema al crear una trayectoria de gran impedancia para frecuencias altas. 
+
+Circuitos sintonizados 
+
+Se utilizan inductores junto con capacitores para proporcionar la selección de frecuencia en sistemas de comunicaciones. Estos circuitos sintonizados permiten seleccionar una banda angosta de frecuencias en tanto que otras frecuencias son rechazadas. Los sintonizadores de televisión y los receptores de radio están basados en este principio y permiten seleccionar un canal o una estación de entre muchas disponibles.
 
 ## Transformadores (Capitulo 14)
+
 
 
 
