@@ -73,10 +73,17 @@ Se utilizan inductores junto con capacitores para proporcionar la selección de 
 
 ## Transformadores (Capitulo 14)
 
+![image](https://user-images.githubusercontent.com/105259381/185537886-6a1b2e45-9929-4107-95cc-3502e17015bb.png)
 
+#### Transformadoores elevadores y reductores
 
+Un transformador elevador tiene más vueltas en su devanado secundario que en el primario y se utiliza para incrementar voltaje de ca. Un transformador reductor tiene más vueltas en su devanado primario que en el secundario y se utiliza para reducir voltaje de c.
 
+![image](https://user-images.githubusercontent.com/105259381/185539282-1ccaf53e-e632-4f02-b485-cc260c2f4024.png)
 
+---
+
+![image](https://user-images.githubusercontent.com/105259381/185540860-8415bb19-2de2-45fd-bd74-6e75bc1781bf.png)
 
 
 ### 3. EXPLICACIÓN O RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
